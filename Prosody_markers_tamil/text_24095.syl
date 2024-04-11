@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.39      SIL
+1        0.39     0.44        a
+2        0.44     0.62     ranx
+3        0.62     0.71       ma
+4        0.71     0.81      nai
+..        ...      ...      ...
+66       8.51     8.64       wa
+67       8.64     8.74      tai
+68       8.74     8.95      yum
+69       8.95     9.04      SIL
+70       9.04     9.28      SIL
+
+[71 rows x 3 columns]

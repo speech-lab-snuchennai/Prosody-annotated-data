@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.29      SIL
+1        0.29     0.60      poo
+2        0.60     0.68       ti
+3        0.68     0.94      cat
+4        0.94     1.01       wa
+..        ...      ...      ...
+80      10.84    10.91      ndi
+81      10.91    11.05     naik
+82      11.05    11.15       ki
+83      11.15    11.26    rxeen
+84      11.26    11.61      SIL
+
+[85 rows x 3 columns]

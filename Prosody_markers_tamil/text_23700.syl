@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.42      SIL
+1        0.42     0.48        a
+2        0.48     0.65       wa
+3        0.65     0.77     lxai
+4        0.77     0.88      SIL
+..        ...      ...      ...
+76       8.56     8.59        a
+77       8.59     8.68     lxit
+78       8.68     8.82     taan
+79       8.82     8.94      SIL
+80       8.94     9.19      SIL
+
+[81 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.33      SIL
+1        0.33     0.50     eerx
+2        0.50     0.63       ke
+3        0.63     0.75       na
+4        0.75     0.99      wee
+..        ...      ...      ...
+62       9.28     9.40       pu
+63       9.40     9.54     kund
+64       9.54     9.64       ta
+65       9.64     9.76       tu
+66       9.76    10.03      SIL
+
+[67 rows x 3 columns]

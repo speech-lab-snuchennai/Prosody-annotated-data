@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.34      SIL
+1        0.34     0.44        a
+2        0.44     0.59     taip
+3        0.59     0.62      SIL
+4        0.62     0.77     parx
+..        ...      ...      ...
+81       9.88     9.95      txa
+82       9.95    10.14     mitx
+83      10.14    10.29    txeen
+84      10.29    10.36      SIL
+85      10.36    10.59      SIL
+
+[86 rows x 3 columns]

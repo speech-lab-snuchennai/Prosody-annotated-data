@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.50      SIL
+1        0.50     0.57       ap
+2        0.57     0.80      poo
+3        0.80     0.95       tu
+4        0.95     0.98      SIL
+..        ...      ...      ...
+73       7.79     7.90     txam
+74       7.90     8.02      SIL
+75       8.02     8.11      con
+76       8.11     8.20     naar
+77       8.20     8.55      SIL
+
+[78 rows x 3 columns]

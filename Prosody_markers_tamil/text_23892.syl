@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.32      SIL
+1        0.32     0.43        u
+2        0.43     0.52      txa
+3        0.52     0.65      nee
+4        0.65     0.69      SIL
+..        ...      ...      ...
+72      10.06    10.09      SIL
+73      10.09    10.24      cey
+74      10.24    10.40     taan
+75      10.40    10.49      SIL
+76      10.49    10.70      SIL
+
+[77 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.29      SIL
+1        0.29     0.47      tee
+2        0.47     0.56       wa
+3        0.56     0.72     ndaa
+4        0.72     0.85      taa
+..        ...      ...      ...
+58       7.24     7.37     txam
+59       7.37     7.40      SIL
+60       7.40     7.65    keetx
+61       7.65     7.85       ka
+62       7.85     8.27      SIL
+
+[63 rows x 3 columns]

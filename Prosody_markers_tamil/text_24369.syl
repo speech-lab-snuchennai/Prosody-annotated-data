@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.33      SIL
+1        0.33     0.48       mu
+2        0.48     0.55       ta
+3        0.55     0.78      lil
+4        0.78     0.82      SIL
+..        ...      ...      ...
+79      11.26    11.29      SIL
+80      11.29    11.43      kuu
+81      11.43    11.50      rxi
+82      11.50    11.67     naan
+83      11.67    12.07      SIL
+
+[84 rows x 3 columns]

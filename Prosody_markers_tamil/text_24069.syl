@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.23      SIL
+1        0.23     0.42       ka
+2        0.42     0.52      nxa
+3        0.52     0.67      wan
+4        0.67     0.70      SIL
+..        ...      ...      ...
+86      12.80    12.90     lxee
+87      12.90    13.14      SIL
+88      13.14    13.37       en
+89      13.37    13.60   rxaalx
+90      13.60    13.92      SIL
+
+[91 rows x 3 columns]

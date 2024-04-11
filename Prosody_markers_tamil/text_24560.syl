@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.25      SIL
+1        0.25     0.34     pusx
+2        0.34     0.43      paa
+3        0.43     0.46      SIL
+4        0.46     0.55      paa
+..        ...      ...      ...
+78       7.48     7.54       to
+79       7.54     7.63    txang
+80       7.63     7.72       ki
+81       7.72     7.86      nar
+82       7.86     8.11      SIL
+
+[83 rows x 3 columns]

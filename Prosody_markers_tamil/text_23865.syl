@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.28      SIL
+1        0.28     0.39       ti
+2        0.39     0.45       ru
+3        0.45     0.54       ma
+4        0.54     0.67     nxam
+..        ...      ...      ...
+90      12.15    12.18      SIL
+91      12.18    12.39    keetx
+92      12.39    12.53    txaan
+93      12.53    12.66      SIL
+94      12.66    12.95      SIL
+
+[95 rows x 3 columns]

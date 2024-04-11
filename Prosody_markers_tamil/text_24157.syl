@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.32      SIL
+1        0.32     0.51      poo
+2        0.51     0.59       ti
+3        0.59     0.87      cat
+4        0.87     0.95       wa
+..        ...      ...      ...
+63       9.50     9.53      SIL
+64       9.53     9.71      cen
+65       9.71     9.92    rxaar
+66       9.92    10.06      SIL
+67      10.06    10.29      SIL
+
+[68 rows x 3 columns]

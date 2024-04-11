@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.31      SIL
+1        0.31     0.50      man
+2        0.50     0.62       na
+3        0.62     0.84      rum
+4        0.84     1.10      SIL
+..        ...      ...      ...
+82      11.54    11.71    paarx
+83      11.71    11.84      rxi
+84      11.84    11.90       ya
+85      11.90    12.05      wan
+86      12.05    12.39      SIL
+
+[87 rows x 3 columns]

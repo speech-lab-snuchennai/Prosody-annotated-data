@@ -1,0 +1,14 @@
+     Starttime  Endtime Syllable
+0         0.00     0.31      SIL
+1         0.31     0.45      and
+2         0.45     0.53       ta
+3         0.53     0.56      SIL
+4         0.56     0.76     wanx
+..         ...      ...      ...
+104      11.44    11.50       wi
+105      11.50    11.57      txu
+106      11.57    11.77     waar
+107      11.77    11.92     kalx
+108      11.92    12.26      SIL
+
+[109 rows x 3 columns]

@@ -1,0 +1,14 @@
+     Starttime  Endtime Syllable
+0         0.00     0.35      SIL
+1         0.35     0.47       ma
+2         0.47     0.57      rxu
+3         0.57     0.78   ndaalx
+4         0.78     0.81      SIL
+..         ...      ...      ...
+104      14.46    14.58     taik
+105      14.58    14.61      SIL
+106      14.61    14.78     kanx
+107      14.78    14.91   txaalx
+108      14.91    15.35      SIL
+
+[109 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.37      SIL
+1        0.37     0.47        a
+2        0.47     0.54       tu
+3        0.54     0.57      SIL
+4        0.57     0.75      wee
+..        ...      ...      ...
+64       9.72     9.87     aatx
+65       9.87     9.94      txi
+66       9.94    10.12      nar
+67      10.12    10.20      SIL
+68      10.20    10.35      SIL
+
+[69 rows x 3 columns]

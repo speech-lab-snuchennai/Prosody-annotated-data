@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.34      SIL
+1        0.34     0.47       ap
+2        0.47     0.68      poo
+3        0.68     0.91       tu
+4        0.91     1.05      SIL
+..        ...      ...      ...
+64       8.68     8.82      kuu
+65       8.82     8.89      rxi
+66       8.89     9.01       ya
+67       9.01     9.12       tu
+68       9.12     9.49      SIL
+
+[69 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.39      SIL
+1        0.39     0.60      man
+2        0.60     0.79      nar
+3        0.79     0.82      SIL
+4        0.82     0.96      nda
+..        ...      ...      ...
+69       9.54     9.62       wa
+70       9.62     9.75     lxar
+71       9.75     9.96     taar
+72       9.96    10.05      SIL
+73      10.05    10.38      SIL
+
+[74 rows x 3 columns]

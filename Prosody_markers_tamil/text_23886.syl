@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.35      SIL
+1        0.35     0.54      ang
+2        0.54     0.67       ku
+3        0.67     0.98      SIL
+4        0.98     1.17      ten
+..        ...      ...      ...
+76      11.03    11.23    waatx
+77      11.23    11.30      txi
+78      11.30    11.41       ya
+79      11.41    11.52       tu
+80      11.52    11.85      SIL
+
+[81 rows x 3 columns]

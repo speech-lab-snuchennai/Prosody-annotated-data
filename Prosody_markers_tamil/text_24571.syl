@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.24      SIL
+1        0.24     0.30       po
+2        0.30     0.37       tu
+3        0.37     0.53      mak
+4        0.53     0.59       ka
+..        ...      ...      ...
+57       6.38     6.57    kaatx
+58       6.57     6.65      txa
+59       6.65     6.74      wil
+60       6.74     6.80      lai
+61       6.80     7.13      SIL
+
+[62 rows x 3 columns]

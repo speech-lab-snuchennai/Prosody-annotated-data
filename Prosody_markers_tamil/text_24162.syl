@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.30      SIL
+1        0.30     0.42        i
+2        0.42     0.52       ru
+3        0.52     0.55      SIL
+4        0.55     0.68      koo
+..        ...      ...      ...
+58       7.38     7.51    txang
+59       7.51     7.57       ki
+60       7.57     7.67       ya
+61       7.67     7.79       tu
+62       7.79     8.12      SIL
+
+[63 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.36      SIL
+1        0.36     0.64   ndaang
+2        0.64     0.85     kalx
+3        0.85     1.11      SIL
+4        1.11     1.22      txi
+..        ...      ...      ...
+70       9.23     9.26        i
+71       9.26     9.36     rund
+72       9.36     9.45       ta
+73       9.45     9.52       tu
+74       9.52     9.81      SIL
+
+[75 rows x 3 columns]

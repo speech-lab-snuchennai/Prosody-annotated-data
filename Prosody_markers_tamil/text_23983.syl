@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.29      SIL
+1        0.29     0.40        i
+2        0.40     0.53     rxap
+3        0.53     0.66       pa
+4        0.66     0.80     tarx
+..        ...      ...      ...
+79      11.40    11.54      kuu
+80      11.54    11.62      rxi
+81      11.62    11.80    naalx
+82      11.80    11.96      SIL
+83      11.96    12.09      SIL
+
+[84 rows x 3 columns]

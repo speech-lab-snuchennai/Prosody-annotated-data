@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.00     0.34      SIL
+1        0.34     0.60    ndaam
+2        0.60     0.64      SIL
+3        0.64     0.80      unx
+4        0.80     0.96     nxum
+..        ...      ...      ...
+63       8.77     8.80      SIL
+64       8.80     8.97     kolx
+65       8.97     9.10     woom
+66       9.10     9.23      SIL
+67       9.23     9.39      SIL
+
+[68 rows x 3 columns]
