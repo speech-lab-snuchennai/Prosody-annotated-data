@@ -1,0 +1,7 @@
+   Starttime  Endtime    Labels
+0       0.34     0.52  S_bucket
+1       0.55     0.76     M_LHL
+2       0.79     0.94       S_L
+3       0.97     1.28     S_HLH
+4       1.35     1.63     S_LHH
+5       1.75     2.08       S_L

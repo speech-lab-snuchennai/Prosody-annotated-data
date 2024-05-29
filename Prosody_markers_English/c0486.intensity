@@ -1,0 +1,5 @@
+   Starttime  Endtime Syllables  Min_Energy  Max_Energy  Average_Energy
+0       0.24     0.48       now    0.000086    0.980840        0.458962
+1       0.48     0.81       ser    0.000023    0.430419        0.166784
+2       0.81     0.99      dhey    0.215267    1.000000        0.739651
+3       0.99     1.14       aen    0.485361    0.731620        0.577994

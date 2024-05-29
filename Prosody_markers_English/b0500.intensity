@@ -1,0 +1,5 @@
+   Starttime  Endtime Syllables  Min_Energy  Max_Energy  Average_Energy
+0       0.41     0.71     dhehn    0.000371    0.878165        0.507955
+1       0.71     1.01      keym    0.000371    1.000000        0.541947
+2       1.01     1.20       may    0.142377    0.784862        0.524986
+3       1.20     1.53       boy    0.020180    0.375020        0.208774

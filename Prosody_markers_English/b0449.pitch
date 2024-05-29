@@ -1,0 +1,7 @@
+   Starttime  Endtime Labels
+0       0.41     0.61  S_HHL
+1       0.61     0.95  S_LHH
+2       0.98     1.20    S_L
+3       1.23     1.41   flat
+4       1.41     1.58  S_HHL
+5       1.67     1.89  M_HLL
