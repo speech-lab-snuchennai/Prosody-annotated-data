@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.54      nak
+1        0.54     0.74      kii
+2        0.77     1.01    leekh
+3        1.04     1.24      par
+4        1.27     1.38       pa
+..        ...      ...      ...
+57      17.10    17.29      par
+58      17.33    17.47       ca
+59      17.47    17.65      laa
+60      17.68    17.82       ga
+61      17.82    18.04      yaa
+
+[62 rows x 3 columns]

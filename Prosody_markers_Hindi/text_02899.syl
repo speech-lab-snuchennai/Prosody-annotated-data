@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.40       ma
+1        0.40     0.59      gar
+2        0.62     0.88      jis
+3        0.91     1.16      eem
+4        1.16     1.35      bii
+..        ...      ...      ...
+58      12.67    12.79      kha
+59      12.79    12.98      paa
+60      13.01    13.17      sak
+61      13.17    13.41      tii
+62      13.44    13.70      hei
+
+[63 rows x 3 columns]

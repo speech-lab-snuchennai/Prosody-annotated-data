@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.42    khidx
+1        0.42     0.60       ki
+2        0.60     0.77      yoq
+3        0.80     0.95     meeq
+4        0.98     1.08       ba
+..        ...      ...      ...
+58      15.40    15.57      kii
+59      15.60    15.75      haa
+60      15.75    15.97      lat
+61      16.00    16.14     meeq
+62      16.17    16.40     thee
+
+[63 rows x 3 columns]

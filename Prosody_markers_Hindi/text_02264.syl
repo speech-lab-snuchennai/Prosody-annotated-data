@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.51      eek
+1        0.54     0.82      din
+2        1.07     1.25       do
+3        1.25     1.60     phar
+4        1.63     1.89       ko
+..        ...      ...      ...
+56      14.17    14.59    saath
+57      14.77    15.11     meit
+58      15.11    15.23      rii
+59      15.26    15.40       ka
+60      15.40    15.65     reeq
+
+[61 rows x 3 columns]

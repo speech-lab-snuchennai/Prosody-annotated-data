@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.42     kuch
+1        0.45     0.55       ka
+2        0.55     0.71      buu
+3        0.71     0.93      tar
+4        0.96     1.16    bhiig
+..        ...      ...      ...
+79      16.18    16.30      lee
+80      16.30    16.44      naa
+81      16.47    16.66     caah
+82      16.66    16.85      tee
+83      16.88    17.07     heiq
+
+[84 rows x 3 columns]

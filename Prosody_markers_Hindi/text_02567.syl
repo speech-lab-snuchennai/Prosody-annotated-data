@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.55     yaad
+1        0.55     0.73      woq
+2        0.76     0.89      our
+3        0.92     1.01       pa
+4        1.01     1.18     txee
+..        ...      ...      ...
+74      16.17    16.41     khaa
+75      16.41    16.46       ii
+76      16.49    16.60      dee
+77      16.60    16.76      taa
+78      16.79    16.99      hei
+
+[79 rows x 3 columns]

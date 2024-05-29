@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.52    kriim
+1        0.55     0.66       ka
+2        0.66     0.84      lar
+3        0.87     1.05      kii
+4        1.08     1.28     chah
+..        ...      ...      ...
+65      14.19    14.34      maa
+66      14.34    14.53      cam
+67      14.56    14.74      gaa
+68      14.74    14.82      dxi
+69      14.82    15.04     yaaq
+
+[70 rows x 3 columns]

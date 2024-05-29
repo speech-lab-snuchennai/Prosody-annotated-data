@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.17     0.35       ma
+1        0.35     0.54      gar
+2        0.57     0.65       us
+3        0.68     0.79       du
+4        0.79     0.88       ni
+..        ...      ...      ...
+62      13.41    13.51       ho
+63      13.51    13.64      tee
+64      13.67    13.90    deekh
+65      13.90    14.00      tee
+66      14.04    14.22     thee
+
+[67 rows x 3 columns]

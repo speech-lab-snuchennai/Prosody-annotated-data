@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.60     jiiw
+1        0.60     1.08     datt
+2        1.30     1.65      naa
+3        1.65     1.89      naa
+4        1.92     2.16      kah
+..        ...      ...      ...
+63      16.07    16.34     swii
+64      16.34    16.59     kaar
+65      16.62    16.82      kii
+66      16.82    16.96       ji
+67      16.96    17.13       ee
+
+[68 rows x 3 columns]

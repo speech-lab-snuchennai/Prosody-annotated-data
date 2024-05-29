@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.45      rat
+1        0.45     0.67      naa
+2        0.70     0.85      kar
+3        0.85     1.01      nee
+4        1.04     1.25       so
+..        ...      ...      ...
+56      15.62    15.80      hii
+57      15.83    16.03      jaa
+58      16.06    16.14       ra
+59      16.14    16.31      hii
+60      16.34    16.60      hei
+
+[61 rows x 3 columns]

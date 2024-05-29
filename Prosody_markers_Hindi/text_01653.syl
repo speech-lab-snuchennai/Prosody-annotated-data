@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.38       ac
+1        0.38     0.60     chii
+2        0.63     0.82      pus
+3        0.82     0.93       ta
+4        0.93     1.13     keeq
+..        ...      ...      ...
+88      19.31    19.49      kaa
+89      19.49    19.67     ranx
+90      19.70    19.79       ya
+91      19.79    19.94      hii
+92      19.98    20.19     thii
+
+[93 rows x 3 columns]

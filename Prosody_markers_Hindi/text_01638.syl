@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.47      eek
+1        0.57     0.72       ei
+2        0.72     0.95      saa
+3        0.98     1.08       ma
+4        1.08     1.45     nusx
+..        ...      ...      ...
+63      18.47    18.70       ee
+64      18.90    19.11        u
+65      19.11    19.35      pas
+66      19.35    19.60     thit
+67      19.70    20.04     thaa
+
+[68 rows x 3 columns]

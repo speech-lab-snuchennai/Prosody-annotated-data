@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.53     saqj
+1        0.53     0.67      naa
+2        0.70     0.82      dii
+3        0.82     0.92      dii
+4        0.95     1.11      kah
+..        ...      ...      ...
+59      11.37    11.49      shi
+60      11.49    11.68      kaa
+61      11.68    11.77      yat
+62      11.80    11.96      laa
+63      11.96    12.05      eeq
+
+[64 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.41       ap
+1        0.41     0.61      nii
+2        0.66     0.76        a
+3        0.76     1.01     bhad
+4        1.01     1.09       ra
+..        ...      ...      ...
+64      13.36    13.58     nxii
+65      13.72    13.99      kar
+66      14.02    14.24   beitxh
+67      14.24    14.39      taa
+68      14.42    14.64      hei
+
+[69 rows x 3 columns]

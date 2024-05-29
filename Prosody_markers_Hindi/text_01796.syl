@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.48      maa
+1        0.48     0.68      naw
+2        0.73     0.92      kee
+3        0.96     1.13       aq
+4        1.13     1.35      tar
+..        ...      ...      ...
+73      18.51    18.66      phu
+74      18.66    18.92     txan
+75      18.95    19.09       ho
+76      19.09    19.28      taa
+77      19.31    19.60      hei
+
+[78 rows x 3 columns]

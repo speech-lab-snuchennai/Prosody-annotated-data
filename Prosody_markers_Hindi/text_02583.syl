@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.41       us
+1        0.41     0.52      nee
+2        0.55     0.70       na
+3        0.70     0.91     wiin
+4        0.94     1.04      kii
+..        ...      ...      ...
+64      12.33    12.51      buu
+65      12.51    12.76      laa
+66      12.81    12.89        u
+67      12.89    13.05    txhee
+68      13.11    13.30     thee
+
+[69 rows x 3 columns]

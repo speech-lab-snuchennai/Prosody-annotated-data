@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.26     0.39      har
+1        0.42     0.56       su
+2        0.56     0.82      bah
+3        1.10     1.26      ham
+4        1.29     1.41       ap
+..        ...      ...      ...
+62      14.32    14.49      har
+63      14.52    14.75   pheeqk
+64      14.78    14.93      dee
+65      14.93    15.06      tee
+66      15.09    15.27     heiq
+
+[67 rows x 3 columns]

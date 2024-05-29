@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.46      eek
+1        0.49     0.52        u
+2        0.52     0.77      pan
+3        0.77     1.03     yaas
+4        1.07     1.25      kii
+..        ...      ...      ...
+59      12.55    12.84    chodx
+60      12.87    12.96       na
+61      12.96    13.07     hiiq
+62      13.10    13.26      sak
+63      13.26    13.53      taa
+
+[64 rows x 3 columns]

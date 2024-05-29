@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.43       us
+1        0.48     0.63      haa
+2        0.63     0.87      lat
+3        0.90     1.21     meeq
+4        1.41     1.65     maqt
+..        ...      ...      ...
+85      23.32    23.47     dxuu
+86      23.47    23.64      baa
+87      23.67    23.83       hu
+88      23.83    23.95       aa
+89      23.98    24.27      hei
+
+[90 rows x 3 columns]

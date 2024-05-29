@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.36       ma
+1        0.36     0.52      hii
+2        0.52     0.63      nee
+3        0.67     0.86     bhar
+4        0.86     1.13     baad
+..        ...      ...      ...
+67      14.53    14.66     jhee
+68      14.69    14.87      lee
+69      14.90    15.00     dxuu
+70      15.00    15.13      bee
+71      15.18    15.41     thee
+
+[72 rows x 3 columns]

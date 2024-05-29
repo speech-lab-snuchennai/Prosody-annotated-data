@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.61      yah
+1        0.64     0.80       aa
+2        0.80     1.06     raam
+3        1.09     1.30      see
+4        1.33     1.51      kah
+..        ...      ...      ...
+75      19.67    19.83      yaa
+76      19.86    20.05      jaa
+77      20.08    20.26      sak
+78      20.26    20.45      taa
+79      20.48    20.76      hei
+
+[80 rows x 3 columns]

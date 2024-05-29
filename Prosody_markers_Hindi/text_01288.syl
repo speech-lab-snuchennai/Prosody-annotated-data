@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.46       as
+1        0.46     0.67       tu
+2        0.96     1.23       ko
+3        1.23     1.35       da
+4        1.35     1.48       ii
+..        ...      ...      ...
+73      18.08    18.30      pra
+74      18.30    18.64     mukh
+75      18.67    18.85      kaa
+76      18.85    19.02     ranx
+77      19.09    19.39     thaa
+
+[78 rows x 3 columns]

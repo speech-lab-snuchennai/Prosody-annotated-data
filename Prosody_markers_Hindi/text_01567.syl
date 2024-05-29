@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.30       pu
+1        0.30     0.58      lis
+2        0.63     0.74        a
+3        0.74     1.09    shaay
+4        1.12     1.30      sii
+..        ...      ...      ...
+68      13.85    13.91       ii
+69      13.94    14.07      kar
+70      14.10    14.22      dee
+71      14.22    14.38      tii
+72      14.41    14.60      hei
+
+[73 rows x 3 columns]

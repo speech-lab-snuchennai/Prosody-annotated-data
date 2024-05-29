@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.50     kiqb
+1        0.50     0.72      daq
+2        0.72     0.86       ti
+3        0.86     1.00     yaaq
+4        1.03     1.39     heiq
+..        ...      ...      ...
+74      18.76    18.92      nee
+75      18.95    19.16      kii
+76      19.23    19.44       ko
+77      19.44    19.74    shish
+78      19.77    20.07      kii
+
+[79 rows x 3 columns]

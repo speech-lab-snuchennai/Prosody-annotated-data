@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.50      sac
+1        0.53     0.66       ka
+2        0.66     0.79     huuq
+3        0.82     0.94       to
+4        0.97     1.09     kuch
+..        ...      ...      ...
+75      14.82    14.93       pa
+76      14.93    15.04      rii
+77      15.07    15.15       na
+78      15.15    15.29     hiiq
+79      15.32    15.51      hei
+
+[80 rows x 3 columns]

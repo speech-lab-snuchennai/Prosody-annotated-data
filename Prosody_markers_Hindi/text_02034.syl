@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.43       na
+1        0.43     0.66     hiiq
+2        0.85     1.15      tak
+3        1.15     1.38    liiph
+4        1.41     1.56      kei
+..        ...      ...      ...
+56      14.01    14.12       pa
+57      14.12    14.37     saqd
+58      14.40    14.59      kar
+59      14.59    14.73      tee
+60      14.76    15.00     heiq
+
+[61 rows x 3 columns]

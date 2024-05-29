@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.44       go
+1        0.44     0.57     rakh
+2        0.60     0.73      pra
+3        0.73     1.12     saad
+4        1.17     1.31      eek
+..        ...      ...      ...
+84      15.32    15.51      kah
+85      15.51    15.65      laa
+86      15.68    15.81     bhee
+87      15.81    15.94      jaa
+88      15.97    16.15      hei
+
+[89 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.19     0.47     wish
+1        0.47     0.56      waa
+2        0.56     0.77      mit
+3        0.77     0.84       ra
+4        0.87     0.96      kee
+..        ...      ...      ...
+61      12.60    12.71        s
+62      12.71    13.00  rqsxtxi
+63      13.03    13.17      kar
+64      13.17    13.37      tii
+65      13.40    13.55    huumq
+
+[66 rows x 3 columns]

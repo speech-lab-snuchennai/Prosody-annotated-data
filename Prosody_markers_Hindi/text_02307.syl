@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.57      jab
+1        0.63     0.73        a
+2        0.73     1.04     dxos
+3        1.07     1.19       pa
+4        1.19     1.47     dxos
+..        ...      ...      ...
+56      13.16    13.23       na
+57      13.23    13.43     hiiq
+58      13.46    13.58       ka
+59      13.58    13.75     reeq
+60      13.75    13.98      gee
+
+[61 rows x 3 columns]

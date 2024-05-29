@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.26     0.42       si
+1        0.42     0.61      kaq
+2        0.61     0.75      dar
+3        0.78     0.97      nee
+4        1.00     1.39     phaa
+..        ...      ...      ...
+61      13.48    13.71      maa
+62      13.71    13.84     luum
+63      13.87    14.03     padx
+64      14.03    14.21      taa
+65      14.25    14.51     thaa
+
+[66 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.49      muq
+1        0.49     0.59       ba
+2        0.59     0.67       ii
+3        0.71     0.91      kee
+4        0.98     1.32    warsx
+..        ...      ...      ...
+62      14.21    14.30       ki
+63      14.30    14.44      yaa
+64      14.47    14.56       ga
+65      14.56    14.71      yaa
+66      14.74    14.96      hei
+
+[67 rows x 3 columns]

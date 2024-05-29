@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.35       ma
+1        0.35     0.50      nxi
+2        0.50     0.66      pur
+3        0.69     0.91     meeq
+4        0.94     1.13      eek
+..        ...      ...      ...
+58      11.49    11.74      sab
+59      11.74    11.86       ko
+60      11.95    12.17     yaad
+61      12.20    12.31       ho
+62      12.31    12.49      gaa
+
+[63 rows x 3 columns]

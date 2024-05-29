@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.44       it
+1        0.44     0.58      nee
+2        0.61     0.87     meeq
+3        1.05     1.29      eek
+4        1.36     1.56      uuq
+..        ...      ...      ...
+76      18.55    18.67       ee
+77      18.70    18.95      jaa
+78      18.98    19.05       ra
+79      19.05    19.25      hee
+80      19.28    19.55     heiq
+
+[81 rows x 3 columns]

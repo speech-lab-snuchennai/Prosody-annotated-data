@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.39       in
+1        0.42     0.73      tas
+2        0.73     0.89      wii
+3        0.89     1.03      roq
+4        1.06     1.29      nee
+..        ...      ...      ...
+63      15.52    15.75     manx
+64      15.78    15.95      kar
+65      15.98    16.18      jaa
+66      16.18    16.36      tii
+67      16.39    16.71      hei
+
+[68 rows x 3 columns]

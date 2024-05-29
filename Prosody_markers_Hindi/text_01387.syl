@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.59     meiq
+1        0.62     0.83       ka
+2        0.83     0.98       ii
+3        1.01     1.30     baar
+4        1.33     1.69      soc
+..        ...      ...      ...
+80      24.04    24.14      txa
+81      24.14    24.37      hal
+82      24.40    24.50       ra
+83      24.50    24.70      hii
+84      24.73    25.02     thii
+
+[85 rows x 3 columns]

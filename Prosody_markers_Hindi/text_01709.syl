@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.39       ab
+1        0.42     0.66       um
+2        0.66     0.72       ra
+3        0.75     0.95      kee
+4        1.10     1.29     peiq
+..        ...      ...      ...
+67      12.97    13.11       na
+68      13.11    13.28     hiiq
+69      13.31    13.40      rah
+70      13.43    13.58      paa
+71      13.58    13.80      tee
+
+[72 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.39      tab
+1        0.42     0.53       na
+2        0.53     0.62     hiiq
+3        0.65     0.78       sa
+4        0.78     0.92     majh
+..        ...      ...      ...
+56      10.82    10.97      laa
+57      11.00    11.10       ho
+58      11.13    11.32      sak
+59      11.32    11.45      taa
+60      11.48    11.66      hei
+
+[61 rows x 3 columns]

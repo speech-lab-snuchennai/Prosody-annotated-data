@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.50      sab
+1        0.58     0.86     kuch
+2        0.89     1.03      wei
+3        1.03     1.26      saa
+4        1.29     1.44      hii
+..        ...      ...      ...
+64      17.50    17.81      sit
+65      17.84    18.00       ut
+66      18.00    18.34     teej
+67      18.34    18.51      naa
+68      18.54    18.80     meeq
+
+[69 rows x 3 columns]

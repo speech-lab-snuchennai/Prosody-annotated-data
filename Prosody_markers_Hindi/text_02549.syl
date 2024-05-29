@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.14     0.37      par
+1        0.40     0.53      wah
+2        0.56     0.81     caah
+3        0.81     0.94      taa
+4        0.97     1.22     thaa
+..        ...      ...      ...
+64      12.05    12.38     saaj
+65      12.41    12.62      saq
+66      12.62    12.86    bhaal
+67      12.95    13.16      kar
+68      13.19    13.35      lii
+
+[69 rows x 3 columns]

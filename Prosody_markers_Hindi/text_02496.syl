@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.56     shar
+1        0.56     0.71      nxi
+2        0.71     0.92      dhi
+3        0.95     1.15      nee
+4        1.33     1.84   prashn
+..        ...      ...      ...
+58      15.30    15.52      wak
+59      15.55    15.65       ba
+60      15.65    15.82      naa
+61      15.85    16.03     duuq
+62      16.03    16.30      gaa
+
+[63 rows x 3 columns]

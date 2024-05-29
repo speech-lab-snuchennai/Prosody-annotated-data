@@ -1,0 +1,14 @@
+    Starttime  Endtime      Word
+0        0.18     0.69   weetaal
+1        0.72     0.98       nee
+2        1.10     1.36       yah
+3        1.43     1.81  kahaanii
+4        1.84     2.26  sunaanee
+..        ...      ...       ...
+73      26.74    27.04     pyaar
+74      27.07    27.18        ko
+75      27.22    27.50      jiit
+76      27.53    27.73    nahiiq
+77      27.76    28.26    saktii
+
+[78 rows x 3 columns]

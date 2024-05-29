@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.27     0.51      har
+1        0.54     0.90     baar
+2        1.03     1.49      wah
+3        1.52     1.65        u
+4        1.65     1.94     nkii
+..        ...      ...      ...
+57      15.60    15.79     bhii
+58      15.82    16.06      saa
+59      16.06    16.25     jhii
+60      16.25    16.56     daar
+61      16.59    16.88    huumq
+
+[62 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.38      tum
+1        0.38     0.55      haa
+2        0.55     0.69      rii
+3        0.72     0.96    maamq
+4        0.99     1.13      kee
+..        ...      ...      ...
+70      17.29    17.47      tee
+71      17.50    17.60       hu
+72      17.60    17.72       ee
+73      17.76    17.88       ka
+74      17.88    18.13      haa
+
+[75 rows x 3 columns]

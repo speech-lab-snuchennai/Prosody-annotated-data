@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.50      siw
+1        0.50     0.75     diin
+2        0.78     1.05     maas
+3        1.05     1.28     txar
+4        1.32     1.52       ap
+..        ...      ...      ...
+58      13.61    13.75      kar
+59      13.78    13.96      ciq
+60      13.96    14.20      tit
+61      14.23    14.32       na
+62      14.35    14.60       ho
+
+[63 rows x 3 columns]

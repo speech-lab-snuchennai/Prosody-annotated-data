@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.39       ya
+1        0.39     0.72    haamq
+2        0.83     1.15      yah
+3        1.19     1.35     bhii
+4        1.38     1.48       ba
+..        ...      ...      ...
+59      16.01    16.15       aq
+60      16.15    16.43      kit
+61      16.47    16.57       ki
+62      16.57    16.75      yaa
+63      16.78    17.03      hei
+
+[64 rows x 3 columns]

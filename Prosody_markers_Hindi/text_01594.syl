@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.25     0.54      ham
+1        0.57     0.76       un
+2        0.79     1.06      naa
+3        1.06     1.26      jii
+4        1.29     1.48      sei
+..        ...      ...      ...
+66      14.38    14.51      lee
+67      14.54    14.71      jaa
+68      14.74    14.80       ra
+69      14.80    14.93      hee
+70      14.98    15.20     thee
+
+[71 rows x 3 columns]

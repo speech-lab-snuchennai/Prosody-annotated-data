@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.36      lee
+1        0.36     0.52      kin
+2        0.55     0.67      mee
+3        0.67     0.75      ree
+4        0.78     0.93      kha
+..        ...      ...      ...
+63      13.37    13.54      sii
+64      13.57    13.69      see
+65      13.72    13.84       ju
+66      13.84    13.98     dxaa
+67      14.01    14.20       ho
+
+[68 rows x 3 columns]

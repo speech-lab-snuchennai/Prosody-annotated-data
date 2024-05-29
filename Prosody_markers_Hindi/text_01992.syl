@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.35       to
+1        0.38     0.49     kyaa
+2        0.52     0.71      baa
+3        0.71     0.90      baa
+4        1.04     1.36       us
+..        ...      ...      ...
+60      15.27    15.36      nee
+61      15.39    15.64     maar
+62      15.67    15.81     dxaa
+63      15.81    15.93      laa
+64      15.96    16.19     thaa
+
+[65 rows x 3 columns]

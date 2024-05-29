@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.45      gaq
+1        0.45     0.62      gaa
+2        0.65     0.80      nee
+3        0.85     0.98       ba
+4        0.98     1.14     dxee
+..        ...      ...      ...
+65      12.27    12.35       na
+66      12.35    12.48     hiiq
+67      12.51    12.58       mi
+68      12.58    12.75      lee
+69      12.75    12.97      gii
+
+[70 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.55      yah
+1        0.58     0.78      eek
+2        0.81     0.97     hadx
+3        0.97     1.07      dxi
+4        1.07     1.21      yoq
+..        ...      ...      ...
+71      15.53    15.67      see
+72      15.70    15.79      hii
+73      15.82    16.00      mou
+74      16.00    16.23     juud
+75      16.30    16.53     thii
+
+[76 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.38      yaa
+1        0.38     0.50      nii
+2        0.53     0.86     saal
+3        0.89     1.09      kee
+4        1.12     1.37     tiin
+..        ...      ...      ...
+61      13.59    13.68       to
+62      13.71    13.87      bei
+63      13.87    14.03    txhee
+64      14.03    14.16      gaa
+65      14.19    14.38      hii
+
+[66 rows x 3 columns]

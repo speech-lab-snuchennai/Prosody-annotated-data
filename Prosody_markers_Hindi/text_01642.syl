@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.56      yah
+1        0.59     0.87      aqk
+2        0.96     1.08       aa
+3        1.08     1.39     taqk
+4        1.43     1.59      kee
+..        ...      ...      ...
+62      15.38    15.62      par
+63      15.62    15.92    yaapt
+64      15.95    16.08       ko
+65      16.08    16.37    shish
+66      16.40    16.57      hei
+
+[67 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.35        a
+1        0.35     0.73     bhii
+2        0.76     1.13     kuch
+3        1.16     1.44    warsx
+4        1.49     1.70      pah
+..        ...      ...      ...
+62      16.98    17.12       ta
+63      17.12    17.43    laash
+64      17.46    17.59      kar
+65      17.59    17.81      tee
+66      17.84    18.09     heiq
+
+[67 rows x 3 columns]

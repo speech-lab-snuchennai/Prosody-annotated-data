@@ -1,0 +1,14 @@
+    Starttime  Endtime   Syllable
+0        0.20     0.37         us
+1        0.40     0.58        din
+2        0.61     0.82       meiq
+3        0.85     0.94         ko
+4        0.94     1.01         ii
+..        ...      ...        ...
+56      10.68    10.82       ghar
+57      10.85    11.00       meeq
+58      11.03    11.20  dxhuuqdxh
+59      11.23    11.37         aa
+60      11.37    11.51         ii
+
+[61 rows x 3 columns]

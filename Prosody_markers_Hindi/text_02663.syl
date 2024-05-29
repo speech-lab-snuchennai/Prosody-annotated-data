@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.36      pah
+1        0.36     0.54      laa
+2        0.57     0.75       jo
+3        0.78     1.00     kaam
+4        1.03     1.23       us
+..        ...      ...      ...
+61      14.38    14.48       ba
+62      14.48    14.59      naa
+63      14.62    14.68       li
+64      14.68    14.85      yaa
+65      14.89    15.11     thaa
+
+[66 rows x 3 columns]

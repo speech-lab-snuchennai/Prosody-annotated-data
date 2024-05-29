@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.39      our
+1        0.42     0.67      sid
+2        0.67     1.08  dhaarth
+3        1.14     1.46       ja
+4        1.46     1.64    haamq
+..        ...      ...      ...
+57      14.81    15.02      naq
+58      15.02    15.22      dit
+59      15.25    15.38       ho
+60      15.38    15.56      taa
+61      15.59    15.82      hei
+
+[62 rows x 3 columns]

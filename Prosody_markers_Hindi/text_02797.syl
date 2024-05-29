@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.43      baa
+1        0.43     0.68      har
+2        0.71     0.86       ho
+3        0.86     1.06      lii
+4        1.09     1.27      kii
+..        ...      ...      ...
+61      17.05    17.26      jaa
+62      17.29    17.44      lee
+63      17.47    17.56       ra
+64      17.56    17.71      haa
+65      17.74    18.06     thaa
+
+[66 rows x 3 columns]

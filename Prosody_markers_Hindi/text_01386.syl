@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.37      our
+1        0.40     0.70     phir
+2        0.82     1.03       ja
+3        1.03     1.18    haamq
+4        1.21     1.42      see
+..        ...      ...      ...
+61      13.08    13.11       rq
+62      13.11    13.38   qkhlaa
+63      13.41    13.52      kee
+64      13.55    13.87     paas
+65      13.90    14.08      hei
+
+[66 rows x 3 columns]

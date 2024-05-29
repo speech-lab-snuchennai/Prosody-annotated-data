@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.32       du
+1        0.32     0.42       ni
+2        0.42     0.50      yaa
+3        0.57     0.67      kee
+4        0.70     0.89      nak
+..        ...      ...      ...
+66      14.13    14.27      nee
+67      14.30    14.41      waa
+68      14.41    14.57      lee
+69      14.60    14.81      log
+70      14.84    15.07     heiq
+
+[71 rows x 3 columns]

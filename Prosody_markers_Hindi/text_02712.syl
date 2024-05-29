@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.40       du
+1        0.40     0.50       ni
+2        0.50     0.64      yaa
+3        0.68     0.81       ja
+4        0.81     1.00     haaq
+..        ...      ...      ...
+57      12.73    12.83      kii
+58      12.86    12.98       ma
+59      12.98    13.13      naa
+60      13.13    13.29      hii
+61      13.34    13.54     thii
+
+[62 rows x 3 columns]

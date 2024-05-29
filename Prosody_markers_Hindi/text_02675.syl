@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.39       ag
+1        0.39     0.51      lee
+2        0.54     0.68      din
+3        0.71     0.87       su
+4        0.87     1.12      bah
+..        ...      ...      ...
+58      12.20    12.28       ra
+59      12.28    12.42      hii
+60      12.45    12.51      hei
+61      12.54    12.76     shaa
+62      12.76    12.97      yad
+
+[63 rows x 3 columns]

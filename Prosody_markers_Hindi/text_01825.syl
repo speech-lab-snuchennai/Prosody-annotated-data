@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.53    klark
+1        0.57     0.81      see
+2        0.84     0.98       ri
+3        0.98     1.15     txaa
+4        1.15     1.24      yar
+..        ...      ...      ...
+73      18.93    19.04       ee
+74      19.07    19.21       la
+75      19.21    19.38      gaa
+76      19.38    19.56      yaa
+77      19.61    19.92     thaa
+
+[78 rows x 3 columns]

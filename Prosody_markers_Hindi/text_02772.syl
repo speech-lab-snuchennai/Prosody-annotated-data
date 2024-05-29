@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.43       ag
+1        0.43     0.60      lee
+2        0.63     0.71      hii
+3        0.74     0.96      din
+4        1.02     1.34      pal
+..        ...      ...      ...
+59      14.88    15.21   dxeetx
+60      15.33    15.72    phiks
+61      15.75    15.92      kar
+62      15.92    16.11      waa
+63      16.14    16.45     deeq
+
+[64 rows x 3 columns]

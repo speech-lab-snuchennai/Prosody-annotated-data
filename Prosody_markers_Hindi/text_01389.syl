@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.49      bac
+1        0.49     0.72      pan
+2        0.75     0.98     meeq
+3        1.25     1.45      ham
+4        1.45     1.68     meeq
+..        ...      ...      ...
+81      21.88    22.05      nee
+82      22.08    22.29     meeq
+83      22.32    22.43       ba
+84      22.43    22.62      dal
+85      22.65    22.92     deeq
+
+[86 rows x 3 columns]

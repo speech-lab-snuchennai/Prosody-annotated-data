@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.51      aaj
+1        0.54     0.69      kee
+2        0.72     0.84       pa
+3        0.84     1.03      rip
+4        1.03     1.32   reeksx
+..        ...      ...      ...
+82      16.86    17.09      kab
+83      17.09    17.27      jaa
+84      17.30    17.41       ki
+85      17.41    17.54      yaa
+86      17.57    17.76      hei
+
+[87 rows x 3 columns]

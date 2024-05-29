@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.29        u
+1        0.29     0.56      pan
+2        0.56     0.76     yaas
+3        0.79     0.88      kee
+4        0.92     1.18     paat
+..        ...      ...      ...
+76      15.86    16.07     kaar
+77      16.10    16.39    haaqp
+78      16.42    16.48       ra
+79      16.48    16.62      hii
+80      16.65    16.71      hei
+
+[81 rows x 3 columns]

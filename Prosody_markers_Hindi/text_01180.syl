@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.44      gul
+1        0.44     0.72     jaar
+2        0.75     0.89      kii
+3        0.92     1.04       ka
+4        1.04     1.12       wi
+..        ...      ...      ...
+76      16.82    17.08      lok
+77      17.11    17.21     rakh
+78      17.24    17.47      sak
+79      17.47    17.61      taa
+80      17.64    17.84      hei
+
+[81 rows x 3 columns]

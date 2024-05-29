@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.30        i
+1        0.30     0.46      see
+2        0.49     0.82    nyuuz
+3        0.85     1.07     cein
+4        1.07     1.23      loq
+..        ...      ...      ...
+57      12.82    12.98       ja
+58      12.98    13.17     ruur
+59      13.20    13.31      lee
+60      13.31    13.44      naa
+61      13.47    13.63      hei
+
+[62 rows x 3 columns]

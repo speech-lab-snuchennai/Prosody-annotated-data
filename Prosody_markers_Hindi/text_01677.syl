@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.25     0.52      ham
+1        0.55     0.70      yah
+2        0.73     1.15     baat
+3        1.35     1.72      yad
+4        1.72     1.82       ya
+..        ...      ...      ...
+87      24.81    25.20      wat
+88      25.20    25.50      rit
+89      25.53    25.66       ho
+90      25.66    25.86      tee
+91      25.89    26.16     heiq
+
+[92 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.17     0.36      par
+1        0.39     0.63      eek
+2        0.69     1.16     jaan
+3        1.16     1.31      lee
+4        1.31     1.52      waa
+..        ...      ...      ...
+89      18.85    18.91       li
+90      18.91    19.04      yaa
+91      19.07    19.19       ga
+92      19.19    19.30      yaa
+93      19.33    19.56      hei
+
+[94 rows x 3 columns]

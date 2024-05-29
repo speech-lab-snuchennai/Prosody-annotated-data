@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.24     0.39       ba
+1        0.39     0.48     dxee
+2        0.51     0.67      shi
+3        0.67     0.89      kaa
+4        0.89     1.12      rii
+..        ...      ...      ...
+65      13.99    14.14     meeq
+66      14.17    14.42    chodx
+67      14.45    14.57      dee
+68      14.57    14.72      tee
+69      14.75    14.93     heiq
+
+[70 rows x 3 columns]

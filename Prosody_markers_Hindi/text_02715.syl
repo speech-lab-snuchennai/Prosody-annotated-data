@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.49       so
+1        0.49     0.67      nee
+2        0.70     0.97     jaag
+3        0.97     1.11      nee
+4        1.14     1.31      kii
+..        ...      ...      ...
+56      12.87    13.13     meeq
+57      13.29    13.47      ham
+58      13.56    13.87    aatxh
+59      13.90    14.14      log
+60      14.20    14.39     thee
+
+[61 rows x 3 columns]

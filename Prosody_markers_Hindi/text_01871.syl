@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.31       pa
+1        0.31     0.51     riik
+2        0.51     0.76    sxanx
+3        0.79     1.04      par
+4        1.07     1.23      wei
+..        ...      ...      ...
+58      16.07    16.31       to
+59      16.34    16.50       ho
+60      16.50    16.73      tee
+61      16.76    16.93      hii
+62      16.96    17.27     heiq
+
+[63 rows x 3 columns]

@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.41       us
+1        0.41     0.63      nee
+2        0.67     0.77        a
+3        0.77     0.87       wi
+4        0.87     1.14    naash
+..        ...      ...      ...
+60      12.63    12.89     baqd
+61      12.92    13.06      kar
+62      13.09    13.19       di
+63      13.19    13.30      yaa
+64      13.34    13.59     thaa
+
+[65 rows x 3 columns]

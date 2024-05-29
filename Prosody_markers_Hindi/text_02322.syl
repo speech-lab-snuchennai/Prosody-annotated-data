@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.44       us
+1        0.44     0.60      kii
+2        0.63     0.81      maa
+3        0.81     0.99      taa
+4        1.02     1.17      kee
+..        ...      ...      ...
+64      15.86    16.07      lan
+65      16.10    16.25      kar
+66      16.25    16.41      nee
+67      16.44    16.56       la
+68      16.56    16.83      gaa
+
+[69 rows x 3 columns]

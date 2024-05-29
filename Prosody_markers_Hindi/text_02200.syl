@@ -1,0 +1,14 @@
+     Starttime  Endtime Syllable
+0         0.18     0.45      wee
+1         0.45     0.69     taal
+2         0.72     0.98      nee
+3         1.10     1.36      yah
+4         1.43     1.56       ka
+..         ...      ...      ...
+122      27.22    27.50     jiit
+123      27.53    27.61       na
+124      27.61    27.73     hiiq
+125      27.76    27.92      sak
+126      27.92    28.26      tii
+
+[127 rows x 3 columns]

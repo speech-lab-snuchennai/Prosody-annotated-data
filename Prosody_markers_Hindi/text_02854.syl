@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.32       mu
+1        0.32     0.50     jhee
+2        0.53     0.78     yaad
+3        0.81     1.02      hei
+4        1.17     1.34      eek
+..        ...      ...      ...
+64      13.70    13.73        u
+65      13.73    13.99   khaadx
+66      14.02    14.22    pheeq
+67      14.22    14.35      kee
+68      14.35    14.55      gaa
+
+[69 rows x 3 columns]

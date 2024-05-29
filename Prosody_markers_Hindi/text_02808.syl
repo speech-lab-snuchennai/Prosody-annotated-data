@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.53     carc
+1        0.56     0.72      kee
+2        0.75     0.95     ghaq
+3        0.95     1.13     txee
+4        1.16     1.32      kii
+..        ...      ...      ...
+67      17.10    17.28       ra
+68      17.28    17.48     khee
+69      17.51    17.60       hu
+70      17.60    17.73       ee
+71      17.77    18.02     thii
+
+[72 rows x 3 columns]

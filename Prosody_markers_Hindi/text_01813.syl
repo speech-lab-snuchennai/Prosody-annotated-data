@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.23     0.42       ap
+1        0.42     0.62      nee
+2        0.65     0.85      gar
+3        0.85     0.92       wa
+4        0.95     1.21     meeq
+..        ...      ...      ...
+84      21.01    21.40    siiqc
+85      21.40    21.59      nee
+86      21.62    21.79      lag
+87      21.82    22.02      jaa
+88      22.02    22.30      tii
+
+[89 rows x 3 columns]

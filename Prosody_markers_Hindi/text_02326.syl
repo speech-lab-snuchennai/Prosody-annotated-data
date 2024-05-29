@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.37       ya
+1        0.37     0.51       di
+2        0.54     0.65       aa
+3        0.65     0.80     dhii
+4        0.83     1.03     raat
+..        ...      ...      ...
+57      13.31    13.75    saath
+58      13.89    14.07      eek
+59      14.12    14.33      kam
+60      14.33    14.42      raa
+61      14.45    14.65      hei
+
+[62 rows x 3 columns]

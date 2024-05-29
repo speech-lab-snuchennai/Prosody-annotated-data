@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.20     0.42       is
+1        0.49     0.68       aq
+2        0.68     0.93      tim
+3        0.96     1.30   prashn
+4        1.33     1.64      see
+..        ...      ...      ...
+71      18.84    19.03      naa
+72      19.06    19.34     kuch
+73      19.40    19.81     jaan
+74      19.81    19.96      tii
+75      19.99    20.29      hei
+
+[76 rows x 3 columns]

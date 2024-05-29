@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.22     0.34        a
+1        0.34     0.50       nu
+2        0.50     0.82     waad
+3        0.86     1.23     karm
+4        1.55     1.88      our
+..        ...      ...      ...
+61      16.20    16.42       up
+62      16.42    16.74    labdh
+63      16.78    17.01      kar
+64      17.01    17.21      naa
+65      17.26    17.57     thaa
+
+[66 rows x 3 columns]

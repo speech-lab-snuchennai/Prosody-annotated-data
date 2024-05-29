@@ -1,0 +1,14 @@
+    Starttime  Endtime Syllable
+0        0.21     0.32       ri
+1        0.32     0.51      haa
+2        0.51     0.79      jaa
+3        1.14     1.42      jab
+4        1.47     1.72     deew
+..        ...      ...      ...
+61      13.65    13.75       na
+62      13.75    13.87     hiiq
+63      13.90    14.06      paa
+64      14.06    14.16      eeq
+65      14.16    14.35      gee
+
+[66 rows x 3 columns]
