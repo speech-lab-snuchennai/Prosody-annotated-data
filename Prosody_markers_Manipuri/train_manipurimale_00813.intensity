@@ -1,0 +1,5 @@
+   Starttime  Endtime Syllables  Min_Energy  Max_Energy  Average_Energy
+0       0.27     0.84      naap    0.000002    0.957315        0.381893
+1       0.87     1.21      seen    0.047971    0.484005        0.203775
+2       1.21     1.57      daan    0.273403    1.000000        0.583224
+3       1.57     1.96       baa    0.001062    0.566621        0.238115
