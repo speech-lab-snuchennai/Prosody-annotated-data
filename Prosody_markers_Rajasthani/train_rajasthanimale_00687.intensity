@@ -1,0 +1,5 @@
+   Starttime  Endtime Syllables  Min_Energy  Max_Energy  Average_Energy
+0       0.21     0.46       cin    0.000000    0.484114        0.153551
+1       0.46     0.66       taa    0.000869    1.000000        0.505359
+2       0.69     0.75        wa    0.111344    0.135372        0.125574
+3       0.75     0.99       hii    0.002010    0.111344        0.050213

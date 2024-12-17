@@ -1,0 +1,5 @@
+   Starttime  Endtime Syllables  Min_Energy  Max_Energy  Average_Energy
+0       0.25     0.75      raaj    0.000000    1.000000        0.228768
+1       0.75     0.89       puu    0.000033    0.014086        0.006774
+2       0.89     1.03       taa    0.012925    0.089189        0.058163
+3       1.03     1.24      nxii    0.008756    0.077268        0.039198
